@@ -12,3 +12,6 @@
 
 ##### sudo apt install -y libsfml-dev
 
+##### Caso tenha dado tudo certo voce verá esta imagem:
+
+![img.png](img.png)
