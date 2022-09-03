@@ -14,5 +14,7 @@
 
 ##### Caso tenha dado tudo certo voce verá esta imagem:
 
-![img.png](img.png)
+![img.png](img/resultado.png)
 
+### Bonus: O diagrama de classes que esta no arquivo 'DiagramaJogoModelo.png', não é deste código que se encontra neste repositório, mas sim para se ter uma base de como deverá ser o código final.
+![img.png](DiagramaJogoModelo.jpg)
