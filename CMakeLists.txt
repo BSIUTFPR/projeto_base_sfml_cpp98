@@ -7,7 +7,7 @@ project(Game)
 # Set the version of cpp to use
 set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++03")
 
-# Set the compile commands on, used for debugging
+# Set the compile commands on, used for debugging in case of errors
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # Set files to compile, not recomended for production

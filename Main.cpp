@@ -78,7 +78,7 @@ int main() {
 
     // create the tilemap from the level definition
     TileMap map;
-    if (!map.load("../tileset.png", sf::Vector2u(32, 32), level, 16, 8))
+    if (!map.load("../img/tileset.png", sf::Vector2u(32, 32), level, 16, 8))
         return -1;
 
     // run the main loop
